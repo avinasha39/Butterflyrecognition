@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#4A312A</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#2F1D1A</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+
+    <color name="colorPrimary">#FF8F00</color>
+    <color name="colorPrimaryDark">#FF6F00</color>
+    <color name="colorAccent">#FFA000</color>
+    <color name="list_divider">#FFFFA600</color>
+    <color name="list_item_title">#ffffffff</color>
+    <color name="list_background">#FF6F00</color>
+    <color name="list_background_pressed">#FFA000</color>
+</resources>
